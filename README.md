@@ -53,7 +53,3 @@ python markerNBone.py
 - Support for dynamic marker addition and removal.
 - Advanced marker filtering to reduce noise.
 - Integration with AR frameworks for augmented reality applications.
-
-## Contact
-For any queries or suggestions, please contact https://github.com/Anushka019.
-

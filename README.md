@@ -17,7 +17,8 @@
 4. **cameraMatrix.pkl & dist.pkl** - Calibration data files for camera matrix and distortion coefficients.
 5. **config.json** - Configuration settings for the project.
 6. **Femur.stl** - A 3D model file. 
-
+7. **interactivePyramidModel.py** - Similar to markerNBone.py but it uses a built-in 3D pyramid model, eliminating the need for external STL files.
+   
 ## Dependencies
 Ensure the following libraries are installed:
 ```bash

@@ -54,9 +54,6 @@ python markerNBone.py
 - Advanced marker filtering to reduce noise.
 - Integration with AR frameworks for augmented reality applications.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For any queries or suggestions, please contact [your email or GitHub profile link].
+For any queries or suggestions, please contact https://github.com/Anushka019.
 

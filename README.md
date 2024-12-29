@@ -50,8 +50,3 @@ python markerNBone.py
 1. Place the **aruco_marker.png** in front of the webcam.
 2. Observe real-time transformation of the associated 3D model.
 3. Test with different markers to control multiple objects.
-
-## Future Enhancements
-- Support for dynamic marker addition and removal.
-- Advanced marker filtering to reduce noise.
-- Integration with AR frameworks for augmented reality applications.

@@ -16,6 +16,7 @@
 3. **aruco_marker.png** - Pre-generated ArUco marker image.
 4. **cameraMatrix.pkl & dist.pkl** - Calibration data files for camera matrix and distortion coefficients.
 5. **config.json** - Configuration settings for the project.
+6. **Femur.stl** - A 3D model file. 
 
 ## Dependencies
 Ensure the following libraries are installed:

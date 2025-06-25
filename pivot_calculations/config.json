@@ -1,0 +1,63 @@
+{
+  "camera": {
+    "calibration_files": {
+      "camera_matrix": "cameraMatrix.pkl",
+      "dist_coeffs": "dist.pkl"
+    },
+    "capture_device_index": 0
+  },
+  "aruco": {
+    "dictionary": "DICT_4X4_50",
+    "marker": {
+      "id": 0,
+      "size_px": 400,
+      "output_file": "aruco_marker.png"
+    }
+  },
+  "cuboid": {
+    "dimensions": {
+      "width": 0.049,
+      "depth": 0.049,
+      "height": 0.0001
+    }
+  },
+  "models": {
+    "bone_model": {
+      "file": "Femur.stl",
+      "scale_factor": 0.0005,
+      "initial_transformations": {
+        "rotate_z": 90,
+        "rotate_x": 90,
+        "rotate_y": 90
+      }
+    }
+  },
+  "marker_texture_map": {
+    "0": "aruco_marker_0.png",
+    "1": "aruco_marker_1.png"
+  },
+  "marker_model_map": {
+    "0": "cuboid_model_1",
+    "1": "cuboid_model_2",
+    "2": "bone_model"
+  },
+  "transformation": {
+    "pose_estimation": {
+      "marker_length_meters": 0.049,
+      "scale_factor": 1
+    }
+  },
+  "display": {
+    "plotter_settings": {
+      "interactive_update": true,
+      "auto_close": false
+    },
+    "opencv_window": {
+      "title": "ArUco Tracker",
+      "exit_key": "q",
+      "width": 1200,
+      "height": 720
+    }
+  }
+}
+  
